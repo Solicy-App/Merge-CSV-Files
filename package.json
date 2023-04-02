@@ -1,0 +1,16 @@
+{
+  "name": "whomi-bdd-vs-capital",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add-csvs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.2.8",
+    "objects-to-csv": "^1.3.6"
+  }
+}
